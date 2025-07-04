@@ -8,7 +8,7 @@ YOLOv5 (you only look once 5) is a compound-scaled object detector trained on th
 </div>
 
 ## <div align = center>Dataset and Data pipelining</div>
-We used the <a href = "https://www.shorturl.at/ahAY4">FLIR dataset</a> that was used for multispectral Image classification. We cleaned the dataset and revamped it to fit the needs for only thermal image classification and detection. An example image taken from the thermal camera is shown below.
+We used the <a href = "https://oem.flir.com/solutions/automotive/adas-dataset-form/">FLIR dataset</a> that was used for multispectral Image classification. We cleaned the dataset and revamped it to fit the needs for only thermal image classification and detection. An example image taken from the thermal camera is shown below.
 <div align="center">
 <img src = "https://i.ibb.co/f0QxtqV/FLIR-00312.jpg" width = 320 height = 256>
 </div>
